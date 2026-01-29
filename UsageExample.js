@@ -17,8 +17,8 @@
     // 2) External rule: decide if this page is eligible (example)
     // NOTE: You said this must be external, so keep it here.
     var pageToCandidatesMap = {
-        "VFIT:Landing:Caring:Festa-della-donna:Slide 3": ["2467"],
-        "VFIT:Landing:Xmas-22-infinito:Landing": ["27152"]
+        "Landing:Festa della mamma:Slide 3": ["1234"],
+        "Landing:Xmas Landing": ["5678"]
     };
 
     if (!pageName || !pageToCandidatesMap[pageName]) return;
